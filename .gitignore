@@ -1,0 +1,21 @@
+# 忽略文件
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 依赖
+node_modules/
+vendor/
+
+# 构建输出
+dist/
+build/
+
+# 日志
+*.log
